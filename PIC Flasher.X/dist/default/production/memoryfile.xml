@@ -3,15 +3,15 @@
   <executable name="dist/default/production\PIC_Flasher.X.production.hex">
     <memory name="program">
       <units>words</units>
-      <length>4096</length>
-      <used>236</used>
-      <free>3860</free>
+      <length>256</length>
+      <used>239</used>
+      <free>17</free>
     </memory>
     <memory name="data">
       <units>bytes</units>
-      <length>256</length>
+      <length>64</length>
       <used>32</used>
-      <free>224</free>
+      <free>32</free>
     </memory>
   </executable>
 </project>
